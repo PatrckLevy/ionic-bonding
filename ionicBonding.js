@@ -2,6 +2,7 @@
 *Title:         Ionic Bonding Practice App
 *Author:        Patrick Levy
 *Last Updated:  3/31/2015  9:20PM
+*Branch: ionic-branch1
 ****************************************************************/
 
 /************************************************************
